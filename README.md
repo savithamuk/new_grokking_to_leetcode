@@ -26,6 +26,7 @@ It is helpful to have all the progress and code in one place. Some prefer this p
 Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets. Here is an example:
 - [ ] Unsolved
 - [X] Solved
+- [-] Solved through video
 
 ## Sliding Window
 - [X] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
@@ -59,17 +60,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Fast and Slow Pointers
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [-] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+- [] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - this is a memory thing
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [-] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
